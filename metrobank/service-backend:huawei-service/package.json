@@ -1,0 +1,31 @@
+{
+  "name": "web-push",
+  "version": "1.0.0",
+  "description": "web client project",
+  "author": "likaiqiang",
+  "private": true,
+  "scripts": {
+    "build": "node server.js"
+  },
+  "dependencies": {
+    "@hmscore/react-native-hms-push": "6.7.0-300",
+    "axios": "^1.3.4",
+    "body-parser": "1.20.2",
+    "bootstrap.min.js": "3.3.5",
+    "ejs": "3.1.9",
+    "express": "4.17.1",
+    "jquery": "3.6.0",
+    "mongodb": "^5.1.0",
+    "push-huawei": "0.2.9",
+    "request": "2.88.2"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
