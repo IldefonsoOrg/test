@@ -14,7 +14,7 @@
     "bootstrap.min.js": "3.3.5",
     "ejs": "3.1.9",
     "express": "4.17.1",
-    "jquery": "3.6.0",
+    "jquery": "3.7.1",
     "mongodb": "^5.1.0",
     "push-huawei": "0.2.9",
     "request": "2.88.2"
