@@ -13,7 +13,7 @@
     "body-parser": "1.20.2",
     "bootstrap.min.js": "3.3.5",
     "ejs": "3.1.9",
-    "express": "4.17.1",
+    "express": "4.21.1",
     "jquery": "3.6.0",
     "mongodb": "^5.1.0",
     "push-huawei": "0.2.9",
