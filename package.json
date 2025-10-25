@@ -15,7 +15,7 @@
     "ejs": "3.1.9",
     "express": "4.17.1",
     "jquery": "3.6.0",
-    "mongodb": "^5.1.0",
+    "mongodb": "^6.0.0",
     "push-huawei": "0.2.9",
     "request": "2.88.2"
   },
